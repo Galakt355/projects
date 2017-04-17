@@ -1,4 +1,4 @@
 D:
-cd D:\Projects\JavaPhilosophy\src
-javac -d D:\Projects\JavaPhilosophy\bin HelloWorld.java
-java -classpath D:/Projects/JavaPhilosophy/bin HelloWorld
+cd D:\Projects\projects\JavaPhilosophy\src
+javac -d D:\Projects\projects\JavaPhilosophy\bin HelloWorld.java
+java -classpath D:/Projects/projects/JavaPhilosophy/bin HelloWorld
