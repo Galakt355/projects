@@ -2,3 +2,5 @@ D:
 cd D:\Projects\projects\JavaPhilosophy\src
 javac -d D:\Projects\projects\JavaPhilosophy\bin HelloWorld.java
 java -classpath D:/Projects/projects/JavaPhilosophy/bin HelloWorld
+
+javaDoc -private -d D:\Projects\projects\JavaPhilosophy\src\javaDoc Documentation1Thirteen.java
