@@ -1,4 +1,4 @@
-public class Transmogrify17
+public class Transmogrify18
 {
     public static void main(String[] args){
         LevelAlert levelAlert = new LevelAlert();
