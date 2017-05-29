@@ -3,7 +3,7 @@ import innerclasses.controller.*;
 
 public class GreenhouseController23{
    public static void main(String[] args) {
-        GreenhouseControls gc = new GreenhouseControls();
+        GreenhouseControlsNeo gc = new GreenhouseControlsNeo();
 		gc.addEvent(gc.new Bell(900));
 		Event[] eventList = {
 		   gc.new ThermostatNight(0),

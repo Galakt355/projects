@@ -1,5 +1,5 @@
 package innerclasses;
-import controller.*;
+import innerclasses.controller.*;
 
 public class GreenhouseControlsNeo extends GreenhouseControls{
 
